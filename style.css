@@ -1,0 +1,29 @@
+h1{
+    color:brown;
+}
+*{
+border:solid;
+}
+.header{
+    background-color:lightblue;
+    display:flex;
+    justify-content:space-between;
+}
+.grid{
+    background-color:green;
+    color:white;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+h2{
+    text-align:center;
+    font-size:x-large;
+    color:blue;
+    background-color:pink;
+}
+.para{
+    background-color:yellow;
+    color:black;
+    text-align:center;
+}
